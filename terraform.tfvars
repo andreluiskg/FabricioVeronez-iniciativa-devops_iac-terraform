@@ -1,4 +1,3 @@
-# token removido - o valor abaixo serve somente para estudo
-do_token="dop_v1_2965bb8a20aa9251fc8e817903c55cfcb43982e7e1bd70661a8a719ad6f6d328"
+do_token="dop_v1_3c6cfbc10b08c107be3c71ae64935bcf684d20ba4829dd3d1b9360bb9e5331d4"
 k8s_name="k8s-iniciativa-devops"
 region="nyc1"
